@@ -23,7 +23,7 @@ body{
 	font-size: 15px;
 	line-height: 1.7;
 	color: #c4c3ca;
-	background-color: #1f2029;
+	background-color: #0a4261;
 	overflow-x: hidden;
 }
 h1, h2, h3, h4, h5, h6,
@@ -284,7 +284,7 @@ a:hover {
 }
 .background-dark-3,
 .background-dark-4 {
-	background-color: #14151a;
+	background-color: #0d3851;
 }
 .background-black {
 	background-color: #000000;
@@ -427,7 +427,7 @@ a:hover {
 	font-size: 14vw;
 	line-height: 1;
 	color: rgba(200,200,200,.1);
-	background: linear-gradient(90deg, rgba(200,200,200,0), rgba(200,200,200,0.65));
+	background: linear-gradient(90deg, rgba(200, 200, 200, 0), rgb(207 212 255));
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	font-weight: 900;
@@ -493,7 +493,7 @@ a:hover {
 .cd-header.is-fixed {
 	position: fixed;
 	top: -100px;
-	background-color: rgba(20, 21, 26, 0.96);
+	background-color: #073752;
 	-webkit-transition: -webkit-transform 0.3s;
 	-moz-transition: -moz-transform 0.3s;
 	transition: transform 0.3s;
@@ -2546,7 +2546,7 @@ figure.vimeo a img, figure.youtube a img {
 	font-size: 14vw;
 	line-height: 1;
 	color: rgba(200,200,200,.1);
-	background: linear-gradient(rgba(75, 77, 100,0.25), rgba(75, 77, 100,0));
+	background: linear-gradient(rgb(126 129 169 / 41%), rgba(75, 77, 100, 0));
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	font-weight: 900;
