@@ -23,7 +23,7 @@ body{
 	font-size: 20px;
 	line-height: 1.7;
 	color: #c4c3ca;
-	background-color: #0a4261;
+	background-color: #272261;
 	overflow-x: hidden;
 }
 h1, h2, h3, h4, h5, h6,
@@ -284,7 +284,7 @@ a:hover {
 }
 .background-dark-3,
 .background-dark-4 {
-	background-color: #0d3851;
+	background-color: #151231;
 }
 .background-black {
 	background-color: #000000;
@@ -493,7 +493,7 @@ a:hover {
 .cd-header.is-fixed {
 	position: fixed;
 	top: -100px;
-	background-color: #073752;
+	background-color: #151231;
 	-webkit-transition: -webkit-transform 0.3s;
 	-moz-transition: -moz-transform 0.3s;
 	transition: transform 0.3s;
@@ -1256,7 +1256,7 @@ body.nav-active .nav__list-item:nth-child(10) {
 }
 .uncover__slice {
 	color: #1f2029;
-	background-color: #1f2029;
+	background-color: #272261;
 	flex: 1;
 }
 .hover-portfolio-box{
@@ -1264,7 +1264,7 @@ body.nav-active .nav__list-item:nth-child(10) {
 }
 .hover-portfolio-box .scroll-img:after{
 	position: absolute;
-	background-color: #1f2029;
+	background-color: #272261;
 	z-index: 1;
 	top: 0;
 	left: 0;
@@ -1272,8 +1272,8 @@ body.nav-active .nav__list-item:nth-child(10) {
 	height: 100%;
 	content: '';
 	opacity: 0;
-    -webkit-transition: all 200ms linear;
-    transition: all 200ms linear; 
+	-webkit-transition: all 200ms linear;
+	transition: all 200ms linear;
 }
 .hover-portfolio-box:hover .scroll-img:after{
 	opacity: 0.7;
